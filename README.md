@@ -12,8 +12,12 @@ install gitlab in debian vm
 
 - Vagrantfile at: [gitlab/Vagrantfile](gitlab/Vagrantfile)
 - installation: https://about.gitlab.com/installation/#debian?version=ce
-- gitlab host: http://gitlab.example
+- this test gitlab host: http://gitlab.example
 
+## gitlab runnter
+
+- installation: https://docs.gitlab.com/runner/install/linux-repository.html
+- register: https://docs.gitlab.com/runner/register/
 
 ### .gitlab-ci.yml with golang
 
@@ -49,6 +53,8 @@ build-project:
         - go build -o hello
         - ./hello
 ```
+
+if you need to set ssh keys: https://docs.gitlab.com/ce/ci/ssh_keys/README.html
 
 ### Demo
 
