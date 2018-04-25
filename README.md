@@ -1,5 +1,8 @@
 # Gitlab Test
 
+[![pipeline status](http://gitlab.example/nyo/gitlab-test/badges/master/pipeline.svg)](http://gitlab.example/nyo/gitlab-test/commits/master)
+[![coverage report](http://gitlab.example/nyo/gitlab-test/badges/master/coverage.svg)](http://gitlab.example/nyo/gitlab-test/commits/master)
+
 test gitlab with CI/CD
 
 ## gitlab service
