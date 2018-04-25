@@ -1,0 +1,18 @@
+hash: fea27825e22ad0d5ea4df0d8bf2d8487b298ce30d043f1ccdaba60367333094c
+updated: 2018-04-25T11:54:14.340440773+08:00
+imports: []
+testImports:
+- name: github.com/garyburd/redigo
+  version: a69d19351219b6dd56f274f96d85a7014a2ec34e
+  subpackages:
+  - internal
+  - redis
+- name: github.com/go-sql-driver/mysql
+  version: a0583e0143b1624142adab07e0e97fe106d99561
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+  subpackages:
+  - bson
+  - internal/json
+  - internal/sasl
+  - internal/scram

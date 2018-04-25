@@ -1,0 +1,8 @@
+package: .
+import: []
+testImport:
+- package: github.com/garyburd/redigo
+  subpackages:
+  - redis
+- package: github.com/go-sql-driver/mysql
+- package: gopkg.in/mgo.v2
