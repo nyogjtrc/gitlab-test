@@ -2,6 +2,7 @@
 
 [![pipeline status](http://gitlab.example/nyo/gitlab-test/badges/master/pipeline.svg)](http://gitlab.example/nyo/gitlab-test/commits/master)
 [![coverage report](http://gitlab.example/nyo/gitlab-test/badges/master/coverage.svg)](http://gitlab.example/nyo/gitlab-test/commits/master)
+[![License MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 test gitlab with CI/CD
 
