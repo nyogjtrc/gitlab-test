@@ -6,6 +6,14 @@
 
 test gitlab with CI/CD
 
+steps:
+
+1. install gitlab service
+2. install gitlab runner + docker engine
+3. create .gitlab-ci.yml for you project
+4. push to gitlab
+5. coding
+
 ## gitlab service
 
 install gitlab in debian vm
