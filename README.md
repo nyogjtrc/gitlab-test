@@ -49,3 +49,13 @@ build-project:
         - go build -o hello
         - ./hello
 ```
+
+### Demo
+
+#### gitlab pipeline status
+
+![](img/screenshot-pipelines.png)
+
+#### badge
+
+![](img/screenshot-badge.png)
